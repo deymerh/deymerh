@@ -12,14 +12,13 @@ Web developer whose passion is creating sites that users enjoy. I live with the 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Deymer_H.svg?style=social&label=Follow%20%40Deymer_H)](https://twitter.com/Deymer_H)
 
 - 🔭 I am currently preparing professionally with the **Platzi Master program**, a program specialized in providing personalized training to each person for their ideal professional profile in the area of technology.
-- 👨‍💻 I like to tutor to help people improve their software development skills.
 - ⚡ **Fun fact:** I like nature and the places where you can breathe fresh air.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![TypeScript Badge](https://img.shields.io/badge/-Typescript-61DBFB?style=for-the-badge&labelColor=black&logo=typescript&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&labelColor=black&logo=redux&logoColor=764abc)](#) [![Sass Badge](https://img.shields.io/badge/-Sass-c56494?style=for-the-badge&labelColor=black&logo=sass&logoColor=c56494)](#) [![Git Badge](https://img.shields.io/badge/-Git-e94e31?style=for-the-badge&labelColor=black&logo=git&logoColor=e94e31)](#) [![Vercel Badge](https://img.shields.io/badge/-Vercel-fff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=fff)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&labelColor=black&logo=redux&logoColor=764abc)](#) [![Sass Badge](https://img.shields.io/badge/-Sass-c56494?style=for-the-badge&labelColor=black&logo=sass&logoColor=c56494)](#) [![Git Badge](https://img.shields.io/badge/-Git-e94e31?style=for-the-badge&labelColor=black&logo=git&logoColor=e94e31)](#) [![Vercel Badge](https://img.shields.io/badge/-Vercel-fff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=fff)](#)
 
 #### Have a look at my CV
 
