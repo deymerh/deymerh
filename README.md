@@ -9,7 +9,7 @@ Web developer whose passion is creating sites that users enjoy. I live with the 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deymer_Hernandez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deymerh/) [![Mail Badge](https://img.shields.io/badge/-deymerh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:deymerh@hotmail.com)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/Deymer_H)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Deymer_H.svg?style=social&label=Follow%20%40Deymer_H)](https://twitter.com/Deymer_H)
 
 - 🔭 I am currently preparing professionally with the **Platzi Master program**, a program specialized in providing personalized training to each person for their ideal professional profile in the area of technology.
 - 👨‍💻 I like to tutor to help people improve their software development skills.
