@@ -24,7 +24,7 @@ Web developer whose passion is creating sites that users enjoy. I live with the 
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=deymerh&count_private=true&theme=tokyonight&show_icons=true&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresmorenoj&layout=compact&theme=tokyonight)](https://github.com/deymerh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deymerh&layout=compact&theme=tokyonight)](https://github.com/deymerh/github-readme-stats)
 
 #### WakaTime Coding Stats
 
